@@ -1,6 +1,6 @@
 /*
- * File: 101-quote.c
- * Auth: Brennan D Baraban
+ * File_name: 101-quote.c
+ * Auth: Yosef Samuel
  */
 
 #include <unistd.h>
