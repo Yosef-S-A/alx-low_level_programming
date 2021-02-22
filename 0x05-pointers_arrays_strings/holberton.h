@@ -2,11 +2,11 @@
 #define HOLBERTON_H
 
 /**
- * File: holberton.h
- * Auth: Yosef Samuel
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x04-pointers_arrays_strings directory.
- */
+* File: holberton.h
+* Auth: Yosef Samuel
+* Desc: Header file containing prototypes for all functions
+*       used in the 0x04-pointers_arrays_strings directory.
+*/
 
 #include <stdlib.h>
 
