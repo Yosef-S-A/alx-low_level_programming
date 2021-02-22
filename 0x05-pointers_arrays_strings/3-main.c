@@ -1,6 +1,3 @@
-#include "holberton.h"
-#include <stdio.h>
-
 /**
 * main - check the code for Holberton School students.
 *
@@ -9,10 +6,8 @@
 int main(void)
 {
 char *str;
-int len;
 
-str = "Holberton!";
-len = _strlen(str);
-printf("%d\n", len);
+str = "I do not fear computers. I fear the lack of them - Isaac Asimov";
+_puts(str);
 return (0);
 }
