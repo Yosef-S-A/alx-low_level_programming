@@ -15,14 +15,14 @@ const listint_t **printed(const listint_t **lst, size_t sz, const listint_t *n)
 	const listint_t **newlist;
 	size_t i;
 
-	newlist = malloc(size * sizeof(listint_t *));
+	newlist = malloc(sz * sizeof(listint_t *));
 	if (newlist == NULL)
 	{
 		free(lst);
 		exit(98);
 	}
 	for (i = 0; i < sz - 1; i++)
-		newlist[i] = list[i];
+		newlist[i] = lst[i];
 	newlist[i] = n;
 	free(lst);
 	return (newlist);
