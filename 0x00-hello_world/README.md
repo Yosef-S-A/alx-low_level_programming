@@ -1,4 +1,4 @@
-B# C - Hello, World
+# C - Hello, World
 In this project I learned the compilation steps of C programminng language. I also learned text-printing in C and using ```gcc```.
 
 ## Tasks :clipboard:
@@ -27,5 +27,5 @@ In this project I learned the compilation steps of C programminng language. I al
 :seven: [Intel Assembly code](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/100-intel)
 + A script that generates the assembly code (Intel syntax) of a C code and save it in an ouput file.
 
-:Eight: [Print to standard error](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/101-quote.c)
+:eight: [Print to standard error](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/101-quote.c)
 + A C program that prints to standard error.
