@@ -15,10 +15,10 @@ In this project I learned the compilation steps of C programminng language. I al
 :three: [Name](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/3-name)
 + A script that compiles a C file and creates an executable.
 
-:Four: [Hello, puts](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/4-puts.c)
+:four: [Hello, puts](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/4-puts.c)
 + A C program that prints a text and uses ```puts``` function.
 
-:Five: [Hello, printf](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/5-printf.c)
+:five: [Hello, printf](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/5-printf.c)
 + A C program that prints a text and uses ```printf``` function.
 
 :six: [Size](https://github.com/Yosef-S-A/alx-low_level_programming/blob/main/0x00-hello_world/6-size.c)
